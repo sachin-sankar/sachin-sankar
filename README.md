@@ -1,4 +1,4 @@
-<img align="left" width="250" height="250" src="https://raw.githubusercontent.com/sachin-sankar/sachin-sankar/main/sticker.png">
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/sachin-sankar/sachin-sankar/main/sticker.png">
 
 # Hi, I'm Sachin Sankar 👋
 
