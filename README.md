@@ -22,3 +22,18 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sachinsankar" height="30" width="40" />
     </a>
 </p>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZxoodRYJKwYBBAHaRw8BAQdABzepdZcrvaIWy6k+8rlKX9FYiLn2Lb90vxFo
+6yRDUvm0QFNhY2hpbiBTYW5rYXIgKENlbnRyYWwgTWFzdGVyIEtleSkgPG1haWwu
+c2FjaGluc2Fua2FyQGdtYWlsLmNvbT6IkwQTFgoAOxYhBKM7okG0vIMQ32PlEKU2
+9i9XxkA1BQJnGih1AhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEKU2
+9i9XxkA1oq8BAO21MAji3k2kivE0tqMQWN7TK8SKRIupGgY/t4eC0+F1APwNOyvP
+AbcnU/YSv28ZoJFFBZtW78C4/rjsVYzuJjPrAbg4BGcaKHUSCisGAQQBl1UBBQEB
+B0Di2ImRE6hNzsQXpU7ujXYY9U89nGT1RNTZYYAiieRBEQMBCAeIeAQYFgoAIBYh
+BKM7okG0vIMQ32PlEKU29i9XxkA1BQJnGih1AhsMAAoJEKU29i9XxkA1pOAA/j/x
+62s7aDWiIJOEPvTlgGUa+jq20wzb9FheLTii7gSPAP4pfx/D0ohUXhmek2urr8Gn
+jF6Tlu/qOd0bNEccsXjTCw==
+=gYuu
+-----END PGP PUBLIC KEY BLOCK-----
