@@ -23,8 +23,8 @@
     </a>
 </p>
 
+```shell
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-
 mDMEZxoodRYJKwYBBAHaRw8BAQdABzepdZcrvaIWy6k+8rlKX9FYiLn2Lb90vxFo
 6yRDUvm0QFNhY2hpbiBTYW5rYXIgKENlbnRyYWwgTWFzdGVyIEtleSkgPG1haWwu
 c2FjaGluc2Fua2FyQGdtYWlsLmNvbT6IkwQTFgoAOxYhBKM7okG0vIMQ32PlEKU2
@@ -37,3 +37,4 @@ BKM7okG0vIMQ32PlEKU29i9XxkA1BQJnGih1AhsMAAoJEKU29i9XxkA1pOAA/j/x
 jF6Tlu/qOd0bNEccsXjTCw==
 =gYuu
 -----END PGP PUBLIC KEY BLOCK-----
+```
