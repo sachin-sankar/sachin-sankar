@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachin Sankar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [Filonna](https://github.com/sachin-sankar/sachin-sankar/filonna)
-
-- 🌱 I’m currently learning **[Textual](https://textual.textualize.io/), Rust**
-
 - 👨‍💻 All of my links are available at [https://bento.me/sachinsankar](https://bento.me/sachinsankar)
 
-- 📝 I sometime write articles on [https://sachinsankar.hashnode.dev/](https://sachinsankar.hashnode.dev/)
+- 📝 I sometime write articles on [https://bitsomnia.hashnode.dev/](https://bitsomnia.hashnode.dev/)
 
 - 📫 How to reach me **mail.sachinsankar@gmail.com**
 
